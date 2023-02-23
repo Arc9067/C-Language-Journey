@@ -1,3 +1,3 @@
 # Hi there!
 
-### This  Repo all my C Practicing codes
+### This  Repo contains all my C Practicing codes
